@@ -1,9 +1,9 @@
 # Players
 
-## [Patrick](./Patrick.md)
+## [Patrick](/Players/Patrick.md)
 
-## [Navneet](./Navneet.md)
+## [Navneet](/Players/Navneet.md)
 
-## [Simon](./Simon.md)
+## [Simon](/Players/Simon.md)
 
-## [Hodgins](./Hodgins.md)
+## [Hodgins](/Players/Hodgins.md)
