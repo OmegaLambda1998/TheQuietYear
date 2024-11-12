@@ -5,3 +5,5 @@
 ## [Places](./Places/README.md)
 
 ## [Characters](./Characters/README.md)
+
+## [Players](./Players/README.md)
