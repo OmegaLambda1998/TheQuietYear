@@ -8,11 +8,13 @@
 Currently Scarce
 
 ##### Pets ([Nav](/Players/Nav.md))
-Currently Scarce
-
+Currently Assimilated
 
 ##### Wind ([Patrick](/Players/Patrick.md))
 Currently Scarce
+
+##### Alternative Facts ([Hodgins](/Players/Hodgins.md))
+Currently Abundant
 
 ### [Harina](/Places/Harina.md)
 
