@@ -1,7 +1,7 @@
 # Campaign Summary
 
-## [Weeks](./Weeks/main.md)
+## [Weeks](./Weeks/README.md)
 
-## [Places](./Places/main.md)
+## [Places](./Places/README.md)
 
-## [Characters](./Characters/main.md)
+## [Characters](./Characters/README.md)
