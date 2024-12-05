@@ -1,9 +1,0 @@
-# Hodgins
-
-## Weeks
-
-## Places
-
-## Characters
-
-

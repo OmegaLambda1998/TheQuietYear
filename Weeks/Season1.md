@@ -1,21 +1,21 @@
 # Season 1
 
-## Week 1 - [Nav](Players/Nav.md)
+## Week 1 - **Nav**
 
 ### Event
 
-We see a good omen, a polinating insect has been seen in [Harina](/Places/Harina)
+We see a good omen, a polinating insect has been seen in **Harina**
 
 ### Question
 
 "We have a lot of scarcity right now, what is the priority to restore"
 
-- Flit the Farmer: Our priority should be storing as much seed as possible across all the islands
-- Archivist Mel: We must take advantage of the one thing we do have, knowledge. We
-- Selena the Serpent Mage: We need something to sell to others, to bring in foreigners, to rekindle our markets. A focus on levitation magic and pets (Serpent Riders) should be our top priority
-- Schtip the Pillary Boy: Gotta get some water.
+- *Flit the Farmer*: Our priority should be storing as much seed as possible across all the islands
+- *Archivist Mel*: We must take advantage of the one thing we do have, knowledge. We
+- *Selena the Serpent Mage*: We need something to sell to others, to bring in foreigners, to rekindle our markets. A focus on levitation magic and pets (Serpent Riders) should be our top priority
+- *Schtip the Pillary Boy*: Gotta get some water.
 
-## Week 2 [Hodgins](Players/Hodgins.md)
+## Week 2 **Hodgins**
 
 ### Event
 
@@ -25,7 +25,7 @@ There are great swarms of small birds which swarm and consume. They are normally
 
 A large, floating bone was spotted far below the islands.
 
-## Week 3 [Patrick](Players/Patrick.md)
+## Week 3 **Patrick**
 
 ### Event
 
@@ -33,19 +33,19 @@ The large bone was discovered to be a wrecked flight
 
 ### Project
 
-The Serpent Mages and Pillaries are working together to investigate the wreck, which will take 4 weeks.
+The *Serpent Mages* and *Pillaries* are working together to investigate the wreck, which will take 4 weeks.
 
-## Week 4 [Simon](Players/Simon.md)
+## Week 4 **Simon**
 
 ### Event
 
-Kalaghar the Spider Preacher has arrived on [Harina](/Places/Harina.md), preaching about spider. Might be preaching an ancient spider deity.
+*Kalaghar the Spider Preacher* has arrived on **Harina**, preaching about spider. Might be preaching an ancient spider deity.
 
 ### Project
 
-The Serpent Mages begin rebuilding [Kavst's](/Places/Kavst.md) dockyards, which will take 6 weeks.
+The *Serpent Mages* begin rebuilding **Kavst's** dockyards, which will take 6 weeks.
 
-## Week 5 [Nav](Players/Nav.md)
+## Week 5 **Nav**
 
 ### Event
 
@@ -56,9 +56,9 @@ The family structure of the islands:
 
 ### Project
 
-Archivist Mel delegates a group of Archival Interns to catalouge all missing crops. This will take 2 weeks.
+*Archivist Mel* delegates a group of *Archival Interns* to catalouge all missing crops. This will take 2 weeks.
 
-## Week 6 [Hodgins](Players/Hodgins.md)
+## Week 6 **Hodgins**
 
 ### Event
 
@@ -66,15 +66,15 @@ During the reconstruction of the dockyards, in an attempt to bind some bone toge
 
 ### Discussion
 
-- Foreman Pittle: That thing, who knows what it could have done
+- *Foreman Pittle*: That thing, who knows what it could have done
 
-- The Capstone: To not even attend, these Serpent Mages must have very little regard for our community, at least when weighed against their discoveries
+- *The Capstone*: To not even attend, these Serpent Mages must have very little regard for our community, at least when weighed against their discoveries
 
-- Thoustan the Mechanic: We're running out of mechanical parts! You threw away a great opportunity. If we could have instead salvaged this, who knows what we could have found.
+- *Thoustan the Mechanic*: We're running out of mechanical parts! You threw away a great opportunity. If we could have instead salvaged this, who knows what we could have found.
 
-- Knum (Model UN kid): "Yes, I have been reading the texts and I think we should... we should... investigate the bone for seed vaults..? I think I'm at the wrong page"
+- *Knum (Model UN kid)*: "Yes, I have been reading the texts and I think we should... we should... investigate the bone for seed vaults..? I think I'm at the wrong page"
 
-## Week 7 [Patrick](Players/Patrick.md)
+## Week 7 **Patrick**
 
 ### Event
 
@@ -86,7 +86,7 @@ The Bone Ship is functional, but is not made of bone. It is a hollow vessel fill
 
 ### Project: Homework
 
-Lista and Kenny, the two overachievers of students.
+*Lista* and *Kenny*, the two overachievers of students.
 
 - 4 different grains
 - 7 vegetables
@@ -97,12 +97,12 @@ Small scale home farming still exists, and could be propogated, but the majority
 
 ### Discussion
 
-- Selena: Use the Bone Ship to wipe out the carnivorous birds.
-- Sirus the Serpent Mage: Use the Bone Ship to reshape
-- The Capstone: Has anyone considered the ecological impact of removing a species from this area?
-- Archivist Mel: Someone destroyed this craft, and we don't know who. None of the records speak of anything like this. Should we be so careless with its use? What if whatever attacked it discovers us. If they could defeat this what chance do we stand.
+- *Selena*: Use the Bone Ship to wipe out the carnivorous birds.
+- *Sirus the Serpent Mage*: Use the Bone Ship to reshape
+- *The Capstone*: Has anyone considered the ecological impact of removing a species from this area?
+- *Archivist Mel*: Someone destroyed this craft, and we don't know who. None of the records speak of anything like this. Should we be so careless with its use? What if whatever attacked it discovers us. If they could defeat this what chance do we stand.
 
-## Week 8 [Simon](Players/Simon.md)
+## Week 8 **Simon**
 
 ### Event
 
@@ -110,9 +110,9 @@ Huge winds interrupt the work in the dockyards, settings its progress back to 6
 
 ### Project
 
-An old broken building is being repaired... into a \`\`spider church''. It will take three weeks.
+An old broken building is being repaired... into a ''spider church''. It will take three weeks.
 
-## Week 9 [Nav](Players/Nav.md)
+## Week 9 **Nav**
 
 ### Event
 
@@ -120,23 +120,23 @@ The eldest within the community are ~130. When we're young, we can synthesize nu
 
 ### Project
 
-To preserve the newly discovered `bees'' from the `spider church'', an \`\`apiary'' is being built. This will take 2 weeks
+To preserve the newly discovered ''bees'' from the ''spider church'', an ''apiary'' is being built. This will take 2 weeks
 
-## Week 10 [Hodgins](Players/Hodgins.md)
+## Week 10 **Hodgins**
 
 ### Event
 
-Some spider cultists, digging around Kavst for some unknown reason, are revealed to have been unearthing a colony of Antlings who had been leaving below the Earth.
+Some spider cultists, digging around **Kavst** for some unknown reason, are revealed to have been unearthing a colony of Antlings who had been leaving below the Earth.
 
 ### Discussion
 
-- The Ant Queen: The `bees'' are the `ants'' adolescent stage. Kalaghar's faction forced us from our last colony.
-  - The Queen is 12ft tall, the species never stops growing
-- Knum: I have read records of the Ant's in our past, we have had friendly relations, communication, and
-- Selena: Kalaghar is new to the region, but has already engaged with the youth culture, and is having a positive effect on them all.
-- Pulton (Head of Eduction): If you want Madam Queen, I can design a syllabus around the needs of your young, to aid integration into our group.
+- *The Ant Queen*: The ''bees'' are the ''ants'' adolescent stage. *Kalaghar*'s faction forced us from our last colony.
+  - The *Queen* is 12ft tall, the species never stops growing
+- *Knum*: I have read records of the Ant's in our past, we have had friendly relations, communication, and
+- *Selena*: *Kalaghar* is new to the region, but has already engaged with the youth culture, and is having a positive effect on them all.
+- *Pulton* (Head of Eduction): If you want Madam Queen, I can design a syllabus around the needs of your young, to aid integration into our group.
 
-## Week 11 [Patrick](Players/Patrick.md)
+## Week 11 **Patrick**
 
 ### Event
 
@@ -144,35 +144,35 @@ In response to the threat of the spiders, all of our crops have been stored in t
 
 ### Project: The Spider Church
 
-Kalaghar hold an opening cermony. He offers to help renew this community which has recently been devestated, and offers his newly burgeoning congregation as volunteer a labour force for construction throughout the islands.
+*Kalaghar* hold an opening cermony. He offers to help renew this community which has recently been devestated, and offers his newly burgeoning congregation as volunteer a labour force for construction throughout the islands.
 
 ### Discovery
 
 A swarm of parachute spiders arrives, and begins pleading for aid against the carnivorous birds.
 
-## Week 11 [Simon](Players/Simon.md)
+## Week 11 **Simon**
 
 ### Event
 
-Lista --- Ant / Spider Project to move the Spider Church to Bolkt, and make that a spider friendly zone, with an agreement that all spiders are now relegated to Bolkt.
+*Lista* --- Ant / Spider Project to move the Spider Church to **Bolkt**, and make that a spider friendly zone, with an agreement that all spiders are now relegated to Bolkt.
 
 ### Project: Apiary
 
-The Apiary is completed, and the Ants take over as the caretakers of the Apiary.
+The Apiary is completed, and the Colony take over as the caretakers of the Apiary.
 
 ### Discussion
 
-- Falery the Farmer: We really need to resolve the issues between the various Insectoid species. We cannot allow our food supplies to become the battleground for old fueds.
-- Lista: We really need to spread out our silos actually.
-- Kalaghar: The problem is, we are so reliant on the plants as a food source. If we setup webs, we could catch food out of the air.
-- Chitter: We need plants to eat. Why waste so much space on the spiders, give them a corner and let us use the rest of Bolkt for plants
+- *Falery the Farmer*: We really need to resolve the issues between the various Insectoid species. We cannot allow our food supplies to become the battleground for old fueds.
+- *Lista*: We really need to spread out our silos actually.
+- *Kalaghar*: The problem is, we are so reliant on the plants as a food source. If we setup webs, we could catch food out of the air.
+- *Chitter*: We need plants to eat. Why waste so much space on the spiders, give them a corner and let us use the rest of Bolkt for plants
 
-## Week 12 [Nav](Players/Nav.md)
+## Week 12 **Nav**
 
 ### Events
 
-Digging in the ground in the north western end of Kavst, a young boy digs (and falls into) an old cavern with explicit settlements for Ants and Birdfolk to co-exist
+Digging in the ground in the north western end of **Kavst**, a young boy digs (and falls into) an old cavern with explicit settlements for Ants and Birdfolk to co-exist
 
 ### Project
 
-Knum, Lista, Mel, and Pulton --- Set up an education and integration program for Bird and Ant-folk.
+*Knum*, *Lista*, *Mel*, and *Pulton* --- Set up an education and integration program for Bird and Ant-folk.

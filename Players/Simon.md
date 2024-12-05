@@ -1,9 +1,0 @@
-# Simon
-
-## Weeks
-
-## Places
-
-## Characters
-
-

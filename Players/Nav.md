@@ -1,9 +1,0 @@
-# Nav
-
-## Weeks
-
-## Places
-
-## Characters
-
-
