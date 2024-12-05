@@ -2,24 +2,46 @@
 
 ## The Floating Islands
 
-#### General Resources
+### General Resources
 
-##### Visibility ([Hodgins](/Players/Hodgins.md))
+#### Visibility ([Hodgins](Players/Hodgins.md))
+
 Currently Scarce
 
-##### Pets ([Nav](/Players/Nav.md))
+#### Pets ([Nav](Players/Nav.md))
+
 Currently Assimilated
 
-##### Wind ([Patrick](/Players/Patrick.md))
+#### Wind ([Patrick](Players/Patrick.md))
+
 Currently Scarce
 
-##### Alternative Facts ([Hodgins](/Players/Hodgins.md))
+#### Alternative Facts ([Hodgins](Players/Hodgins.md))
+
 Currently Abundant
 
-### [Harina](/Places/Harina.md)
+## Harina
 
-### [Bolkt](/Places/Bolkt.md)
+Created by [Nav](Players/Nav.md)
 
-### [Kavst](/Places/Kavst.md)
+### Resources
 
-### [The Pillar](/Places/Pillar.md)
+#### Diverse Crops ([Nav](Players/Nav.md))
+
+Currently Abundant
+
+#### Spiders
+
+Currently Scarce
+
+### Locations
+
+#### Apiary
+
+### Spider Church
+
+## [Bolkt](Places/Bolkt.md)
+
+## [Kavst](Places/Kavst.md)
+
+## [The Pillar](Places/Pillar.md)
