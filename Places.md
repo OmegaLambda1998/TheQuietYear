@@ -4,9 +4,13 @@
 
 ### General Resources
 
+#### Organisation
+
+Currently Abundant
+
 #### Visibility (**Hodgins**)
 
-Currently Scarce
+Currently Abundant
 
 #### Pets (**Nav**)
 
@@ -16,7 +20,7 @@ Currently Assimilated
 
 Currently Scarce
 
-#### Alternative Facts (**Hodgins**)
+#### Radical Philosophy (**Hodgins**)
 
 Currently Abundant
 
@@ -26,7 +30,7 @@ Currently Abundant
 
 #### Diverse Crops (**Nav**)
 
-Currently Abundant
+Currently Scarce
 
 #### Spiders
 
@@ -44,7 +48,7 @@ Currently Scarce
 
 #### Historical Records (**Hodgins**)
 
-Currently Abundant
+Currently Scarce
 
 ### Locations
 
@@ -72,8 +76,20 @@ Currently Abundant
 
 #### Water (**Patrick**)
 
-Currently Scarce
+Currently Abundant
 
 #### Mechanical Parts (**Simon**)
 
 Currently Scarce
+
+## The Bone Medic
+
+### Resources
+
+#### Medical Expertise
+
+Currently Abundant
+
+#### Well Boned People
+
+Currently **VERY** scarce

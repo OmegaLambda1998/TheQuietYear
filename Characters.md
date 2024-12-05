@@ -1,6 +1,6 @@
 # Characters
 
-## The Farmers
+## The Apiarists
 
 ### Flit the Farmer
 
@@ -48,8 +48,16 @@
 
 ### Penelope the Merchant
 
-## The Colony
+## The Ants
 
-### The Queen
+### The Queen --- Three Quiet Wings
 
 ### Chitter
+
+### Scuttle --- Covert Ant Agent
+
+## The Colony of the Return
+
+### Rememberance --- Many eels
+
+### Thoughtfullness --- A Badger
